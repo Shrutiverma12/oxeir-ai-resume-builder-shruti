@@ -4,6 +4,9 @@ An AI-powered chat application to guide users through career advice with interac
 
 ---
 
+## 🚀 Live Preview
+[https://oxeir-ai-resume-builder-shruti.vercel.app](https://oxeir-ai-resume-builder-shruti.vercel.app/)
+
 ##  **Setup Instructions**
 
 ### 1️⃣ Clone the Repository
