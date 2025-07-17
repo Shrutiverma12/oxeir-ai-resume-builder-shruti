@@ -11,7 +11,7 @@ An AI-powered chat application to guide users through career advice with interac
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Shrutiverma12/oxeir-ai-resume-builder-shruti
 cd ai_career_coach
 ```
 
